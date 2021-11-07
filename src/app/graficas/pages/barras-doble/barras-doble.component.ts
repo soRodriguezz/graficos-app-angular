@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { ChartDataSets, ChartOptions, ChartType } from 'chart.js';
+import { ChartDataSets } from 'chart.js';
 
 @Component({
   selector: 'app-barras-doble',
